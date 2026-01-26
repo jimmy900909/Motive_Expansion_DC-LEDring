@@ -2,7 +2,7 @@
 
 Author:Wei Ching Ling 25/01/2026
 
-This is the PCB rings, 3D printed holding frame and system setup instruction for Motive DC LED source, which can eliminate EMI noise if you are recording vulnerable signal (etc. brain signal) at the same time.)  
+This is the PCB rings, 3D printed holding frame and system setup instruction for Motive DC LED source, which can eliminate EMI noise if you are recording vulnerable signal (etc. brain signal) at the same time. This model was tested and the size fit for cameras Primex 41 and Prime 17
 
 BOM:
 LINOVISION 90W PoE++ Splitter with IEEE802.3bt and DC 5/9/12/24V - amount: 1
